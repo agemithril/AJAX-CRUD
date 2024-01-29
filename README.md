@@ -9,13 +9,12 @@ Crea una base de datos o utiliza una ya existente.
 
 Ejecuta el siguiente script SQL para crear la tabla necesaria:
 
-sql
-Copy code
 CREATE TABLE tbl_task (
     idTask INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(30) NOT NULL,
     description VARCHAR(30) NOT NULL
 );
+
 En la carpeta php, modifica el código en conDb.php para reflejar la información de tu base de datos:
 php
 Copy code
