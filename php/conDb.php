@@ -1,10 +1,10 @@
 <?php
 /*Datos del servidor de la BD, modificar*/
 $conn = mysqli_connect(
-    "localhost",
-    "id21766103_ardillacompiladora",
-    "ArdillaCompiladora01@",
-    "id21766103_api"
+    "-------Host",
+    "-------User",
+    "---Password",
+    "---Db---name"
 );
 
 
