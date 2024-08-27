@@ -39,9 +39,6 @@ tasklist.php
 tasksearch.php
 task-update.php
 
-Ejemplo en Ejecución:
-https://uworklife.000webhostapp.com/tasks.html
-
 Notas Adicionales:
 Asegúrate de que tu servidor web tenga los permisos adecuados para acceder y modificar la base de datos.
 Puedes proporcionar instrucciones adicionales para cualquier configuración especial o problemas conocidos.
